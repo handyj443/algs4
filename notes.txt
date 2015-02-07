@@ -1,0 +1,1 @@
+Convert string to int: Integer.parseInt("string")
